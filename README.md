@@ -8,6 +8,6 @@ web page skeleton
     <title>Boiler plate Code</title>
 </head>
 <body>
-    .. code goes from here
+    .. code goes from here <input type ="password" name ="pwd">
     </body>
     </html>
